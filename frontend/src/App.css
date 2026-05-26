@@ -1,0 +1,5 @@
+/* Application-level styles intentionally minimal; see index.css for design system */
+.App {
+  min-height: 100vh;
+  background: #F8F5EE;
+}
